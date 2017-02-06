@@ -1,0 +1,10 @@
+image_t*_data
+*.pdf
+*.csv
+*.json
+*.gl
+*.json
+*.npz
+*.sf
+*.png
+**/lda_*
