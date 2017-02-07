@@ -4,8 +4,8 @@
 
 * Topic 1: Machine Learning Foundations: A Case Study Approach [\[here\]](./ML1_Intro_to_ML)
 * Topic 2: Machine Learning: Regression [\[here\]](./ML2_Regression)
-* Topic 3: Machine Learning: Classification[\[here\]](./ML3_Classification)
-* Topic 4: Machine Learning: Clustering & Retrieval[\[here\]](./ML4_Clustering) 
+* Topic 3: Machine Learning: Classification [\[here\]](./ML3_Classification)
+* Topic 4: Machine Learning: Clustering & Retrieval [\[here\]](./ML4_Clustering) 
 
 ## Description:
 
